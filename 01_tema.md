@@ -30,7 +30,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[A veiculação de campanhas publicitárias persuasivas em mídias de massa e redes sociais desperta o interesse do público ao evocar a ilusão de ganho financeiro rápido e acessível. Essa estratégia induz a experimentação das plataformas de apostas e gera uma falsa percepção de segurança financeira, o que estimula a recorrência do comportamento de aposta na tentativa de consolidar uma fonte de renda complementar.`
+`[O uso apelativo da propaganda em meios como as redes sociais e a televisão desperta a curiosidade dos usuários e cria a ilusão de dinheiro fácil e limpo. Isso os induz a experimentar as plataformas e gera uma falsa sensação de conforto, levando-os a apostar cada vez mais na esperança de obter uma 'segunda renda'.]`
 
 ### Viabilidade
 
@@ -48,7 +48,7 @@ Tema delimitado e justificativa.
 - [X] O tema é relevante.
 - [X] O tema é viável.
 - [X] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- [X] O tema foi validado pelo professor.
 
 ## Contribuições
 
