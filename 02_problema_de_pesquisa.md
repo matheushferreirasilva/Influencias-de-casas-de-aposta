@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[]` | `[preencher]` |
+| `[Matheus Henrique Ferreira da Silva, Cristhian Matheus Julio da Silva]` | `[Problema da pesquisa]` |
