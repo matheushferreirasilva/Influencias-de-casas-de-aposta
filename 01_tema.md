@@ -54,4 +54,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Matheus Henrique Ferreira da Silva, Cristhian Matheus Julio da Silva]` | `[Analise e desenvolvimento do tema]` |
