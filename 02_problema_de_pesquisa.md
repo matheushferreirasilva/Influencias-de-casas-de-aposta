@@ -6,19 +6,19 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[Impacto social da tecnologia]`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[O que seria Dark Patterns e qual seria a influencia deles]`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- O que se deseja descobrir ou compreender? `[A influencia indireta sobre o usurario final]`
+- Qual é o objeto da pergunta? `[Informar o usuario sobre manipulação oculta]`
+- Qual é o contexto ou recorte? `[Demonstrar ao usuario como ocorre a manipulação visual]`
+- A pergunta pode ser respondida por artigos científicos? `[Sim, pois é algo presente no dia-a-dia]`
+- Por que essa pergunta é relevante? `[Porque se trata de um tema não muito comentado fora do mundo WEB]`
 
 ## Produto da etapa
 
