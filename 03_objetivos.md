@@ -6,26 +6,26 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[O que seria Dark Patterns e qual seria a influencia deles?]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Identificar e analisar.]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
+1. `[Mapear e categorizar as principais técnicas de dark patterns utilizadas em plataformas digitais de apostas]`
+2. `[Analisar a frequência de ocorrência dessas estratégias nos fluxos de cadastro, navegação e cancelamento de serviços.]`
+3. `[Propor diretrizes de ethical design (design ético) para a criação de interfaces transparentes e centradas no usuário.]`
 4. `[opcional]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[A manipulação indireta]` |
+| Objetivo geral | `[Informar o usuario sobre a existencia e identificação]` |
+| Resultado esperado | `[Estudo sobre o que é Dark Patterns e identificação]` |
 
 ## Produto da etapa
 
@@ -33,7 +33,7 @@ Um objetivo geral e de três a quatro objetivos específicos.
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x] Os objetivos começam com verbos no infinitivo.
+- [x] O objetivo geral responde ao problema.
+- [x] Os objetivos específicos detalham o objetivo geral.
+- [x] Os objetivos são compatíveis com uma revisão bibliográfica.
