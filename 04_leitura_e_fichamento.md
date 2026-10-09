@@ -8,57 +8,58 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* Referência completa: `[VERBICARO, Dennis; MOURA, João Vitor Mendonça de; COSTA, Rosalina Moitta Pinto da. Master of puppets: o determinismo algorítmico, os dark patterns e a urgência no controle das casas de aposta on-line. Revista de Direito do Consumidor, v. 157, p. 1-21, jan./fev. 2025.]`
+* DOI ou URL: `[DTR\2024\12232]`
+* Base de origem: `[Revista dos Tribunais Online (Thomson Reuters)]`
+* Leitor responsável: `[Matheus Henrique Ferreira da Silva, Cristhian Matheus Julio da Silva]`
+* Data da leitura: `[08/10/2026]`
 
 ## Fichamento
 
+
 ### Problema investigado
 
-`[preencher]`
+`[A exploração desregulada de plataformas de apostas virtuais (bets) que empregam arquitetura de escolha enganosa (dark patterns) e sistemas preditivos baseados em inteligência artificial. O artigo problematiza como a combinação dessas técnicas mina a livre capacidade de escolha dos consumidores, gerando superendividamento, compulsão e graves danos socioeconômicos.]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`[Analisar as implicações jurídicas e éticas decorrentes do uso articulado entre determinismo algorítmico e interfaces manipulativas em casas de apostas no Brasil, propondo balizas normativas com foco na proteção do consumidor e na tutela da autonomia individual.]`
 
 ### Método utilizado
 
-`[preencher]`
+`[Pesquisa qualitativa, de cunho descritivo-analítico, amparada em revisão bibliográfica e na interpretação dogmático-normativa do Código de Defesa do Consumidor (CDC), da LGPD e das regulamentações recentes do setor de apostas (como a Lei 14.790/2023).]`
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+`[O estudo contextualiza o cenário recente do mercado brasileiro de apostas de quota fixa (bets), examinando dados do Banco Central, pareceres do Ministério da Fazenda, resoluções da Secretaria de Prêmios e Apostas (SPA), além de levantamentos estatísticos sobre o impacto orçamentário e a ociosidade do público jovem no ensino superior.]`
 
 ### Principais resultados
 
-`[preencher]`
+`[Demonstrou-se que os mecanismos tecnológicos operam de forma assimétrica: os algoritmos mapeiam vulnerabilidades comportamentais e os dark patterns induzem o engajamento contínuo, reduzindo a autonomia do usuário a uma ilusão de controle. O arcabouço regulatório atual revela-se reativo e insuficiente por focar apenas em aspectos posteriores ao consumo, sem fiscalizar a transparência da programação e o viés das interfaces.]`
 
 ### Limitações apresentadas
 
-`[preencher]`
+`[A investigação concentra-se na abordagem doutrinária e normativa, não realizando testes empíricos de auditoria algorítmica direta no código-fonte das plataformas nem levantamentos de campo primários com usuários atingidos.]`
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+`[Oferece um arcabouço conceitual sólido sobre a convergência entre dark patterns e IA preditiva no setor de bets, fundamentando a necessidade de um microssistema protetivo específico que contemple a regulação preventiva do design de interfaces e a tutela da integridade cognitiva do consumidor.]`
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+`[O texto destaca-se por traçar um diagnóstico interdisciplinar preciso ao conectar conceitos de User Experience (UX) às garantias constitucionais de proteção ao consumidor. Como ponto frágil, nota-se uma dependência acentuada da análise de normas infra-legais que sofrem constantes alterações, o que pode exigir atualizações frequentes dos pontos de regulação do setor.]`
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `["Esses sistemas de aposta, programados para aumentar o tempo de engajamento e maximizar os gastos do usuário, criam uma ilusão de escolha enquanto secretamente dirigem as ações (e até mesmo os ganhos) do jogador."]`
 
-Página: `[número]`
+Página: `[3]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [X] O artigo foi lido além do resumo.
+* [X] O método e os resultados foram identificados.
+* [X] As limitações foram registradas.
+* [X] A conexão com o tema foi explicada.
+* [X] Toda citação literal contém página.
 
