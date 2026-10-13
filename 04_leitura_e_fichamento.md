@@ -19,7 +19,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[A exploração desregulada de plataformas de apostas virtuais (bets) que empregam arquitetura de escolha enganosa (dark patterns) e sistemas preditivos baseados em inteligência artificial. O artigo problematiza como a combinação dessas técnicas mina a livre capacidade de escolha dos consumidores, gerando superendividamento, compulsão e graves danos socioeconômicos.]`
+`[A exploração desregulada de plataformas de apostas virtuais (bets) que empregam arquitetura de escolha enganosa (dark patterns) e sistemas preditivos baseados em inteligência artificial e machine learning utilizados em apostas esportivas. O artigo problematiza como a combinação dessas técnicas mina a livre capacidade de escolha dos consumidores, gerando superendividamento, compulsão e graves danos socioeconômicos.]`
 
 ### Objetivo do estudo
 
@@ -35,7 +35,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Principais resultados
 
-`[Demonstrou-se que os mecanismos tecnológicos operam de forma assimétrica: os algoritmos mapeiam vulnerabilidades comportamentais e os dark patterns induzem o engajamento contínuo, reduzindo a autonomia do usuário a uma ilusão de controle. O arcabouço regulatório atual revela-se reativo e insuficiente por focar apenas em aspectos posteriores ao consumo, sem fiscalizar a transparência da programação e o viés das interfaces.]`
+`[mostra se que os mecanismos tecnológicos operam de forma assimétrica: os algoritmos mapeiam vulnerabilidades comportamentais e os dark patterns induzem o engajamento contínuo, reduzindo a autonomia do usuário a uma ilusão de controle. O arcabouço regulatório atual revela-se reativo e insuficiente por focar apenas em aspectos posteriores ao consumo, sem fiscalizar a transparência da programação e o viés das interfaces.]`
 
 ### Limitações apresentadas
 
