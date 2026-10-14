@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[O papel dos dark patterns, notificações push/ Experiencia do usuário (UX) e integrações de pagamento instantâneo no engajamento adictivo em plataformas de apostas online]`
+`[O papel dos dark patterns, Experiencia do usuário (UX) e integrações de pagamento instantâneo no engajamento adictivo em plataformas de apostas online]`
 
 ### Do tema amplo ao específico
 
